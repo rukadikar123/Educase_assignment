@@ -6,7 +6,7 @@ function Signup() {
 
   return (
     <>
-      <form className="ml-[20px] h-[812px] mt-[40px] flex flex-col gap-[7px] font-rubik font-medium">
+      <form /*onSubmit={()=>navigate('/profile')}*/ className="ml-[20px] h-[812px] mt-[40px] flex flex-col gap-[7px] font-rubik font-medium">
         <h1 className="text-[28px]  h-[69px] w-[188px] text-[#1D2226] text-left">
           Create your PopX account
         </h1>
