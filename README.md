@@ -41,7 +41,7 @@ It demonstrates a basic multi-page flow using React Router, Tailwind CSS for sty
    yarn dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) to view the app.
+4. Open [https://educase-assignment-sigma-hazel.vercel.app/](https://educase-assignment-sigma-hazel.vercel.app/) to view the app.
 
 ## Project Structure
 
